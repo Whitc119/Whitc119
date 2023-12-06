@@ -33,12 +33,6 @@ I'm always open to interesting conversations and collaboration. Connect with me 
 
 Thanks for stopping by! 😊
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## Thank You!
-
-Thanks for visiting my GitHub profile. Feel free to explore my projects when I put them up.
 
 
