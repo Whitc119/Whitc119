@@ -41,5 +41,4 @@ Thanks for stopping by! 😊
 
 Thanks for visiting my GitHub profile. Feel free to explore my projects when I put them up.
 
-![Footer Image](footer_image.jpg)
 
